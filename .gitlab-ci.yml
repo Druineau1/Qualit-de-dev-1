@@ -5,4 +5,4 @@ hello:
     stage: hello_stage
     image: ubuntu:22.04
     script:
-        -echo hello world TINTINTIN
+        - echo hello world TINTINTIN
